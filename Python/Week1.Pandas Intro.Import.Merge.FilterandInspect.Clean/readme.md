@@ -11,7 +11,7 @@
 Draw a table of how you plan to use your data. You need to think through how you are going to get to your goal before you start. 
 Here is a good example: 
 
-https://github.com/simples707data/IronHack/blob/main/Python/Week1.Pandas%20Intro.Import.Merge.FilterandInspect.Clean/good_example_data_planning.png
+[good_example](https://github.com/simples707data/IronHack/blob/main/Python/Week1.Pandas%20Intro.Import.Merge.FilterandInspect.Clean/good_example_data_planning.png)
 
 ## How to import a csv file:
 
