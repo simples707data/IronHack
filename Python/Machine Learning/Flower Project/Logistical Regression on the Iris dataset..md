@@ -23,7 +23,7 @@ I was pleased to get the data cleaning and wrangling done quite efficiently.
 The first Python based lab that I have finished on time and somewhat to my satisfaction - so pleased with this
 
 See code in this file: Logistical Regression on the Iris dataset.ipynb
-
+https://github.com/simples707data/Week1/blob/main/Python/Machine%20Learning/Flower%20Project/Logistical%20Regression%20on%20the%20Iris%20dataset.ipynb
 
 ```python
 
