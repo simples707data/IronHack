@@ -34,4 +34,5 @@ df.head()
 
 ## Filter and inspect the data for duplicates and other cleaning tasks
 [Filtering for different views](https://github.com/simples707data/IronHack/blob/main/Python/Week1.Pandas%20Intro.Import.Merge.FilterandInspect.Clean/Filtering.ipynb)
+
 Cleaning for duplicates. 
