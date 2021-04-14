@@ -170,7 +170,7 @@ There are lots of normalization options and it is hard to understand them.
 
 This python doc contains the ones that you did in class.
 
-&#39;FINAL.Linear Regression. Pre-Processing. Completed\_ML\_LR\_Students&#39;
+&#39;[FINAL.Linear Regression. Pre-Processing. Completed\_ML\_LR\_Students](http://localhost:8888/notebooks/IronHack/Python/Week%204.%20Cleaning%20.%20Wrangling/FINAL.Linear%20Regression.%20Pre-Processing.%20Completed_ML_LR_Students.ipynb)&#39;
 
 Here is a good overview: (scroll to bottom for nice visuals).
 
