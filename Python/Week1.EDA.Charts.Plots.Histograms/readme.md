@@ -202,6 +202,7 @@
        "<p>5 rows × 25 columns</p>\n",
        "</div>"
       ],
+      
       "text/plain": [
        "   Unnamed: 0 customer       state  customer_lifetime_value response  \\\n",
        "0           0  BU79786  Washington              2763.519279       No   \n",
